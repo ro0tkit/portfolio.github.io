@@ -24,6 +24,10 @@ color: white;
     color: #66ff38;
 }
 .footer{
-    background-color: bisque;
-    
+    background-color:burlywood;
+}
+.icon{
+    width: 40px; 
+    height: 40px; 
+    margin: 20px;
 }
