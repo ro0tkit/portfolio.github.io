@@ -11,15 +11,24 @@ body{
     .header{
 margin-bottom: 30px;
 border-bottom: 5px solid #fffffffa;
+background-color: white;
+color:black;
+padding: 30px;
+border-radius: 40px;
 }
-
+.profile{
+    width: 150px;
+    height: 150px;
+}
 h1{
-text-align: left;
+float: right;
 font-family: 'Josefin Sans', sans-serif;
 font-size: 80px;
-color: white;
+color:black;
 }
-
+.sidebar{
+    margin-bottom: 40px;
+}
 .sidebar li{
     list-style-type: none;
     color: #66ff38;
